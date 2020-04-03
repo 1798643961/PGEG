@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "F F",
+    "F  "
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pgeg:wand",
+    "count": 1
+  }
+}

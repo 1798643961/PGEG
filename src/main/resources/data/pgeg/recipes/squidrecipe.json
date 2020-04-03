@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:dye"
+    }
+  },
+  "result": {
+    "item": "pgeg:raw_squid",
+    "count": 1
+  }
+}

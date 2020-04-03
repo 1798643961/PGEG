@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.pgeg.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "PgegMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

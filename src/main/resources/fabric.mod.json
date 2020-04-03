@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "pgeg",
+  "version": "${version}",
+
+  "name": "PGEG Mod",
+  "description": "This is a mod try to repoured the PGEG Mod in 1.15.2",
+  "authors": [
+    "1798643961,anbaqishiJack"
+  ],
+  "contact": {
+    "homepage": "https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3010816-1-15-2-fabric-pgeg-repoured",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/pgeg/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pgeg.PgegMod"
+    ]
+  },
+  "mixins": [
+    "pgeg.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.2",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
