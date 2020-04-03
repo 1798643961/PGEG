@@ -1,4 +1,4 @@
-# Fabric Example Mod
+PGEG Mod
 
 ## Setup
 
